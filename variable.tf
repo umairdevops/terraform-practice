@@ -1,11 +1,11 @@
 # # Access Key
 variable AWS_ACCESSKEY {
-  default     = "AKIATIKJPAXQYTRX234M"
+  default     = ""
 }
 
 # Secret Key
 variable AWS_SECRETKEY {
-  default     = "t+4zMnJuAlqpnFN3IZMpBC5SWEVj3HblT+/WppxB"
+  default     = ""
 }
 
 # Region
